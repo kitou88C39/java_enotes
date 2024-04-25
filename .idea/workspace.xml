@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53647dfd-f6b0-4035-a417-859160774d9e" name="Changes" comment="Webappファイルにregister.jspを作成する" />
+    <list default="true" id="53647dfd-f6b0-4035-a417-859160774d9e" name="Changes" comment="Webappファイルにlogin.jspを作成する">
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +67,23 @@
       <option name="project" value="LOCAL" />
       <updated>1714029317295</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Webappファイルにlogin.jspを作成する">
+      <option name="closed" value="true" />
+      <created>1714030070145</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714030070145</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Webappファイルにlogin.jspを作成する">
+      <option name="closed" value="true" />
+      <created>1714030120881</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714030120881</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,6 +100,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="Webappファイルにregister.jspを作成する" />
-    <option name="LAST_COMMIT_MESSAGE" value="Webappファイルにregister.jspを作成する" />
+    <MESSAGE value="Webappファイルにlogin.jspを作成する" />
+    <option name="LAST_COMMIT_MESSAGE" value="Webappファイルにlogin.jspを作成する" />
   </component>
 </project>
