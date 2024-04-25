@@ -6,6 +6,7 @@
     <%@include file="all_component/allcss.jsp" %>
 
 </head>
-<body>
+    <body>
+    <%@include file="all_component/navbar.jsp" %>
     </body>
 </html>
