@@ -13,7 +13,8 @@
 <div class="col-md-4 offset-md-4">
 <div class="card">
 <div class="card-header">
-<i class="fa fa-user-plus" aria-hidden="true"></i>
+<i class="fa fa-user-plus text-center" aria-hidden="true"></i>
+<h4>Registeration</h4>
 </div>
 <div class"card-body">
 
