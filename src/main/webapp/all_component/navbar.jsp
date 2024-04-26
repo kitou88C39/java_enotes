@@ -13,7 +13,8 @@
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">
-        <i class="fa fa-plus-circle" aria-hidden="true"></i>Add Notes</a>
+        <i class="fa fa-plus-circle" aria-hidden="true"></i>
+        Add Notes</a>
       </li>
 
       <li class="nav-item">
@@ -22,8 +23,12 @@
       </li>
     </ul>
     <form class="form-inline my-2 my-lg-0">
-      <a class="btn btn-light my-2 my-sm-0 mr-2" type="submit">Login</a>
-      <a class="btn btn-light my-2 my-sm-0" type="submit">Register</a>
+      <a class="btn btn-light my-2 my-sm-0 mr-2" type="submit">
+      <i class="fa fa-user-circle-⚪︎" aria-hidden="true"></i>
+      Login</a>
+      <a class="btn btn-light my-2 my-sm-0" type="submit">
+      <i class="fa fa-user-plus" aria-hidden="true"></i>
+      Register</a>
     </form>
   </div>
 </nav>
