@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53647dfd-f6b0-4035-a417-859160774d9e" name="Changes" comment="Webapp/index.jspを編集する">
+    <list default="true" id="53647dfd-f6b0-4035-a417-859160774d9e" name="Changes" comment="Webappにregister.jspを作成する">
       <change beforePath="$PROJECT_DIR$/src/main/webapp/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/register.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -427,7 +427,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714114394043</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Webappにregister.jspを作成する">
+      <option name="closed" value="true" />
+      <created>1714114610944</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1714114610944</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -455,6 +463,7 @@
     <MESSAGE value="webapp/index.jspを編集する" />
     <MESSAGE value="Webapp/all_componentにfooter.jspを作成する" />
     <MESSAGE value="Webapp/index.jspを編集する" />
-    <option name="LAST_COMMIT_MESSAGE" value="Webapp/index.jspを編集する" />
+    <MESSAGE value="Webappにregister.jspを作成する" />
+    <option name="LAST_COMMIT_MESSAGE" value="Webappにregister.jspを作成する" />
   </component>
 </project>
