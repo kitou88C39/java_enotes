@@ -23,7 +23,8 @@
     <h1 class="text-white">E Notes-Save Your Notes</h1>
     <a href="login.jsp" class="btn btn-light">
     <i class="fa fa-user-circle-⚪︎" aria-hidden="true"></i>Login</a>
-    <a href="register.jsp" class="btn btn-light">Register</a>
+    <a href="register.jsp" class="btn btn-light">
+    <i class="fa fa-user-plus" aria-hidden="true"></i>Register</a>
     </div>
     </div>
     <%@include file="all_component/footer.jsp" %>
