@@ -51,14 +51,6 @@
       <option name="presentableId" value="Default" />
       <updated>1713957382628</updated>
     </task>
-    <task id="LOCAL-00003" summary="Webappファイルにregister.jspを作成する">
-      <option name="closed" value="true" />
-      <created>1714029317295</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1714029317295</updated>
-    </task>
     <task id="LOCAL-00004" summary="Webappファイルにlogin.jspを作成する">
       <option name="closed" value="true" />
       <created>1714030070145</created>
@@ -443,7 +435,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714117118161</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Webappにregister.jspを作成する">
+      <option name="closed" value="true" />
+      <created>1714117339182</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1714117339183</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
