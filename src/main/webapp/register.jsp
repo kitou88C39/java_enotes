@@ -8,12 +8,12 @@
 </head>
 <body>
 <%@include file="all_component/navbar.jsp" %>
-<div class="container-fluid">
+<div class="container-fluid div-color">
 <div class="row">
 <div class="col-md-4 offset-md-4">
-<div class="card">
-<div class="card-header">
-<i class="fa fa-user-plus text-center" aria-hidden="true"></i>
+<div class="card mt-4">
+<div class="card-header text-center text-white bg-custom">
+<i class="fa fa-user-plus fa-3x" aria-hidden="true"></i>
 <h4>Registeration</h4>
 </div>
 <div class"card-body">
