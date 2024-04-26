@@ -33,7 +33,7 @@
     <input type="password" class="form-control" id="exampleInputPassword1" >
   </div>
 
-  <button type="submit" class="btn btn-primary badge-pill btn-block">Submit</button>
+  <button type="submit" class="btn btn-primary badge-pill btn-block">Register</button>
 </form>
 </div>
 </div>
