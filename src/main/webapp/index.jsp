@@ -8,5 +8,6 @@
 </head>
     <body>
     <%@include file="all_component/navbar.jsp" %>
+    <div class="container-fluid" aria-hidden="true"></div>
     </body>
 </html>
