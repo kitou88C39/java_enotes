@@ -1,5 +1,7 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-custom navbar-custom">
-  <a class="navbar-brand" href="#">Enotes</a>
+  <a class="navbar-brand" href="#">
+  <i class="fa fa-book" aria-hidden="true"></i>
+  Enotes</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
