@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53647dfd-f6b0-4035-a417-859160774d9e" name="Changes" comment="Webapp/css/style.cssを作成する" />
+    <list default="true" id="53647dfd-f6b0-4035-a417-859160774d9e" name="Changes" comment="Webapp/register.jspを作成する" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,30 +48,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713957382628</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Webappにall_componentフォルダとallcss.jspを作成する">
-      <option name="closed" value="true" />
-      <created>1714041881781</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1714041881781</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Webappにlogin.jspを作成する">
-      <option name="closed" value="true" />
-      <created>1714041977394</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1714041977394</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Webappにall_componentフォルダとallcss.jspを作成する">
-      <option name="closed" value="true" />
-      <created>1714042123382</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1714042123382</updated>
     </task>
     <task id="LOCAL-00016" summary="Webappにall_componentフォルダとallcss.jspを作成する">
       <option name="closed" value="true" />
@@ -441,7 +417,31 @@
       <option name="project" value="LOCAL" />
       <updated>1714128851749</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Webapp/css/style.cssを作成する">
+      <option name="closed" value="true" />
+      <created>1714129210597</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1714129210597</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Webapp/css/style.cssを作成する">
+      <option name="closed" value="true" />
+      <created>1714129288263</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1714129288263</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Webapp/register.jspを作成する">
+      <option name="closed" value="true" />
+      <created>1714129440660</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1714129440660</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -471,6 +471,7 @@
     <MESSAGE value="Webapp/all_componentにnavbar.jspを作成する" />
     <MESSAGE value="Webappにregister.jspを作成する" />
     <MESSAGE value="Webapp/css/style.cssを作成する" />
-    <option name="LAST_COMMIT_MESSAGE" value="Webapp/css/style.cssを作成する" />
+    <MESSAGE value="Webapp/register.jspを作成する" />
+    <option name="LAST_COMMIT_MESSAGE" value="Webapp/register.jspを作成する" />
   </component>
 </project>
