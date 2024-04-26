@@ -17,23 +17,23 @@
 <h4>Registeration</h4>
 </div>
 <div class"card-body">
-
-
 <form>
   <div class="form-group">
+  <label>Enter Full Name</label>
     <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
   </div>
 
   <div class="form-group">
+  <label>Enter Email</label>
       <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
     </div>
 
   <div class="form-group">
-    <label for="exampleInputPassword1">Password</label>
+    <label for="exampleInputPassword1">Enter Password</label>
     <input type="password" class="form-control" id="exampleInputPassword1" >
   </div>
 
-  <button type="submit" class="btn btn-primary">Submit</button>
+  <button type="submit" class="btn btn-primary badge-pill btn-block">Submit</button>
 </form>
 </div>
 </div>

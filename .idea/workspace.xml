@@ -51,14 +51,6 @@
       <option name="presentableId" value="Default" />
       <updated>1713957382628</updated>
     </task>
-    <task id="LOCAL-00018" summary="Webappにindex.jspを編集する">
-      <option name="closed" value="true" />
-      <created>1714043243125</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1714043243125</updated>
-    </task>
     <task id="LOCAL-00019" summary="Webappにindex.jspを編集する">
       <option name="closed" value="true" />
       <created>1714043499007</created>
@@ -443,7 +435,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714130265420</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Webapp/register.jspを作成する">
+      <option name="closed" value="true" />
+      <created>1714130605129</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1714130605129</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
