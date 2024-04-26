@@ -8,6 +8,11 @@
 </head>
 <body>
 <%@include file="all_component/navbar.jsp" %>
+<div class="container-fluid">
+<div class="row">
+
+</div>
+</div>
 </body>
 </html>
 
