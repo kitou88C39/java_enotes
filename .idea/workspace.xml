@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53647dfd-f6b0-4035-a417-859160774d9e" name="Changes" comment="Webapp/register.jspを作成する" />
+    <list default="true" id="53647dfd-f6b0-4035-a417-859160774d9e" name="Changes" comment="Webapp/register.jspを作成する">
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/register.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,22 +50,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713957382628</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Webappにall_componentフォルダとallcss.jspを作成する">
-      <option name="closed" value="true" />
-      <created>1714042320825</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1714042320825</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Webappにall_componentフォルダとallcss.jspを作成する">
-      <option name="closed" value="true" />
-      <created>1714042718783</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1714042718784</updated>
     </task>
     <task id="LOCAL-00018" summary="Webappにindex.jspを編集する">
       <option name="closed" value="true" />
@@ -441,7 +427,23 @@
       <option name="project" value="LOCAL" />
       <updated>1714129440660</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Webapp/register.jspを作成する">
+      <option name="closed" value="true" />
+      <created>1714130143291</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1714130143291</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Webapp/register.jspを作成する">
+      <option name="closed" value="true" />
+      <created>1714130265420</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1714130265420</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
