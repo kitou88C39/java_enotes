@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53647dfd-f6b0-4035-a417-859160774d9e" name="Changes" comment="Webappにindex.jspを編集する" />
+    <list default="true" id="53647dfd-f6b0-4035-a417-859160774d9e" name="Changes" comment="ebapp/all_componentにfooter.jspを作成する">
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/all_component/footer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/all_component/footer.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -329,7 +331,23 @@
       <option name="project" value="LOCAL" />
       <updated>1714111048480</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="ebapp/all_componentにfooter.jspを作成する">
+      <option name="closed" value="true" />
+      <created>1714111291558</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1714111291558</updated>
+    </task>
+    <task id="LOCAL-00037" summary="ebapp/all_componentにfooter.jspを作成する">
+      <option name="closed" value="true" />
+      <created>1714111460351</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1714111460351</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -352,6 +370,7 @@
     <MESSAGE value="Webappにcssフォルダとstyle.cssを作成する" />
     <MESSAGE value="Webapp/all_componentにnavbar.jspを作成する" />
     <MESSAGE value="Webappにindex.jspを編集する" />
-    <option name="LAST_COMMIT_MESSAGE" value="Webappにindex.jspを編集する" />
+    <MESSAGE value="ebapp/all_componentにfooter.jspを作成する" />
+    <option name="LAST_COMMIT_MESSAGE" value="ebapp/all_componentにfooter.jspを作成する" />
   </component>
 </project>
