@@ -10,9 +10,12 @@
 <%@include file="all_component/navbar.jsp" %>
 <div class="container-fluid">
 <div class="row">
-<div class="col-md-6 offset-md-3">
+<div class="col-md-4 offset-md-4">
 <div class="card">
-<div class="card-header"></div>
+<div class="card-header">
+<i class="fa fa-user-plus text-center" aria-hidden="true"></i>
+<h4>Registeration</h4>
+</div>
 <div class"card-body">
 
 <form>
