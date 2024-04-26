@@ -10,7 +10,9 @@
 <%@include file="all_component/navbar.jsp" %>
 <div class="container-fluid">
 <div class="row">
+<div class="col-md-6 offset-md-3">
 
+</div>
 </div>
 </div>
 </body>
