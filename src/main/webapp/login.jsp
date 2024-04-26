@@ -2,7 +2,8 @@
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
-    <title>My Webpage</title>
+    <title>Login Page</title>
+    <%@include file="all_component/allcss.jsp" %>
 </head>
 <body>
 <%@include file="all_component/navbar.jsp" %>
@@ -12,7 +13,7 @@
 <div class="card mt-4">
 <div class="card-header text-center text-white bg-custom">
 <i class="fa fa-user-plus fa-3x" aria-hidden="true"></i>
-<h4>Registeration</h4>
+<h4>Login Page</h4>
 </div>
 <div class"card-body">
 <form>
@@ -27,7 +28,7 @@
     <input type="password" class="form-control" id="exampleInputPassword1" >
   </div>
 
-  <button type="submit" class="btn btn-primary badge-pill btn-block">Register</button>
+  <button type="submit" class="btn btn-primary badge-pill btn-block">Login</button>
 </form>
 </div>
 </div>
