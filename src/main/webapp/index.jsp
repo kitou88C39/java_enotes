@@ -16,5 +16,6 @@
     <body>
     <%@include file="all_component/navbar.jsp" %>
     <div class="container-fluid" back-img></div>
+    <%@include file="all_component/footer.jsp" %>
     </body>
 </html>
