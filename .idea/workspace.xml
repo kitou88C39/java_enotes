@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53647dfd-f6b0-4035-a417-859160774d9e" name="Changes" comment="Webappにindex.jspを編集する">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/css/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="53647dfd-f6b0-4035-a417-859160774d9e" name="Changes" comment="Webappにcssフォルダとstyle.cssを作成する" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -228,7 +225,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714045107799</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Webappにcssフォルダとstyle.cssを作成する">
+      <option name="closed" value="true" />
+      <created>1714045350316</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1714045350316</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -246,11 +251,11 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="Webappファイルにregister.jspを作成する" />
     <MESSAGE value="Webappファイルにlogin.jspを作成する" />
-    <MESSAGE value="Webappにcssフォルダとstyle.cssを作成する" />
     <MESSAGE value="Webappにlogin.jspを作成する" />
     <MESSAGE value="Webappにall_componentフォルダとallcss.jspを作成する" />
     <MESSAGE value="Webapp/all_componentにnavbar.jspを作成する" />
     <MESSAGE value="Webappにindex.jspを編集する" />
-    <option name="LAST_COMMIT_MESSAGE" value="Webappにindex.jspを編集する" />
+    <MESSAGE value="Webappにcssフォルダとstyle.cssを作成する" />
+    <option name="LAST_COMMIT_MESSAGE" value="Webappにcssフォルダとstyle.cssを作成する" />
   </component>
 </project>
