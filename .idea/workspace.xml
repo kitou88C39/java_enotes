@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53647dfd-f6b0-4035-a417-859160774d9e" name="Changes" comment="Webappにcssフォルダとstyle.cssを作成する">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="53647dfd-f6b0-4035-a417-859160774d9e" name="Changes" comment="Webapp/all_componentにnavbar.jspを作成する">
       <change beforePath="$PROJECT_DIR$/src/main/webapp/all_component/navbar.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/all_component/navbar.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -268,7 +267,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714097264088</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Webapp/all_componentにnavbar.jspを作成する">
+      <option name="closed" value="true" />
+      <created>1714097732438</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1714097732438</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -289,8 +296,8 @@
     <MESSAGE value="Webappにlogin.jspを作成する" />
     <MESSAGE value="Webappにall_componentフォルダとallcss.jspを作成する" />
     <MESSAGE value="Webappにindex.jspを編集する" />
-    <MESSAGE value="Webapp/all_componentにnavbar.jspを作成する" />
     <MESSAGE value="Webappにcssフォルダとstyle.cssを作成する" />
-    <option name="LAST_COMMIT_MESSAGE" value="Webappにcssフォルダとstyle.cssを作成する" />
+    <MESSAGE value="Webapp/all_componentにnavbar.jspを作成する" />
+    <option name="LAST_COMMIT_MESSAGE" value="Webapp/all_componentにnavbar.jspを作成する" />
   </component>
 </project>

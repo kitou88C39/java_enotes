@@ -12,11 +12,13 @@
         Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Add Notes</a>
+        <a class="nav-link" href="#">
+        <i class="fa fa-plus-circle" aria-hidden="true"></i>Add Notes</a>
       </li>
 
       <li class="nav-item">
-        <a class="nav-link" href="#">Show Notes</a>
+        <a class="nav-link" href="#">
+        <i class="fa fa-address-book-⚪︎" aria-hidden="true"></i>Show Notes</a>
       </li>
     </ul>
     <form class="form-inline my-2 my-lg-0">
