@@ -6,3 +6,9 @@
     font-size: 20px;
     color: white;
 }
+
+.navbar-custom .navbar-item:hover .nav-link {
+    background: white;
+    color: black;
+    border-radius: 10px;
+}
