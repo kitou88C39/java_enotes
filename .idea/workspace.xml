@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53647dfd-f6b0-4035-a417-859160774d9e" name="Changes" comment="Webapp/all_componentにnavbar.jspを作成する" />
+    <list default="true" id="53647dfd-f6b0-4035-a417-859160774d9e" name="Changes" comment="Webappにregister.jspを作成する">
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/register.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,14 +50,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713957382628</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Webappファイルにregister.jspを作成する">
-      <option name="closed" value="true" />
-      <created>1714028922051</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1714028922051</updated>
     </task>
     <task id="LOCAL-00003" summary="Webappファイルにregister.jspを作成する">
       <option name="closed" value="true" />
@@ -441,7 +435,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714116828409</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Webappにregister.jspを作成する">
+      <option name="closed" value="true" />
+      <created>1714117118161</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1714117118161</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -468,8 +470,8 @@
     <MESSAGE value="webapp/index.jspを編集する" />
     <MESSAGE value="Webapp/all_componentにfooter.jspを作成する" />
     <MESSAGE value="Webapp/index.jspを編集する" />
-    <MESSAGE value="Webappにregister.jspを作成する" />
     <MESSAGE value="Webapp/all_componentにnavbar.jspを作成する" />
-    <option name="LAST_COMMIT_MESSAGE" value="Webapp/all_componentにnavbar.jspを作成する" />
+    <MESSAGE value="Webappにregister.jspを作成する" />
+    <option name="LAST_COMMIT_MESSAGE" value="Webappにregister.jspを作成する" />
   </component>
 </project>
