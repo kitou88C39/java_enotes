@@ -19,6 +19,8 @@
     <%@include file="all_component/navbar.jsp" %>
     <div class="container-fluid" back-img>
     <h1>E Notes-Save Your Notes</h1>
+    <a href="login.jsp" class="btn btn-light">Login</a>
+    <a href="register.jsp" class="btn btn-light">Register</a>
     </div>
     <%@include file="all_component/footer.jsp" %>
     </body>

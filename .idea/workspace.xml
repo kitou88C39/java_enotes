@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53647dfd-f6b0-4035-a417-859160774d9e" name="Changes" comment="webapp/index.jspを編集する">
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/all_component/footer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/all_component/footer.jsp" afterDir="false" />
+    <list default="true" id="53647dfd-f6b0-4035-a417-859160774d9e" name="Changes" comment="Webapp/index.jspを編集する">
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -379,7 +379,23 @@
       <option name="project" value="LOCAL" />
       <updated>1714112950375</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Webapp/all_componentにfooter.jspを作成する">
+      <option name="closed" value="true" />
+      <created>1714113133186</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1714113133186</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Webapp/index.jspを編集する">
+      <option name="closed" value="true" />
+      <created>1714113359417</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1714113359417</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -405,6 +421,8 @@
     <MESSAGE value="ebapp/all_componentにfooter.jspを作成する" />
     <MESSAGE value="webapp/all_componentにfooter.jspを作成する" />
     <MESSAGE value="webapp/index.jspを編集する" />
-    <option name="LAST_COMMIT_MESSAGE" value="webapp/index.jspを編集する" />
+    <MESSAGE value="Webapp/all_componentにfooter.jspを作成する" />
+    <MESSAGE value="Webapp/index.jspを編集する" />
+    <option name="LAST_COMMIT_MESSAGE" value="Webapp/index.jspを編集する" />
   </component>
 </project>
