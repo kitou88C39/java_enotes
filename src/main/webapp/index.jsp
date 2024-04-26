@@ -19,8 +19,10 @@
     <%@include file="all_component/navbar.jsp" %>
     <div class="container-fluid" back-img>
     <div class="text-center">
+    <i class="fa fa-book" aria-hidden="true"></i>
     <h1 class="text-white">E Notes-Save Your Notes</h1>
-    <a href="login.jsp" class="btn btn-light">Login</a>
+    <a href="login.jsp" class="btn btn-light">
+    <i class="fa fa-user-circle-⚪︎" aria-hidden="true"></i>Login</a>
     <a href="register.jsp" class="btn btn-light">Register</a>
     </div>
     </div>
